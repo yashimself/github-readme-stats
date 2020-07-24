@@ -162,10 +162,10 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=yashimself`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashimself)](https://github.com/yashimself/github-readme-stats)
 ```
 
 ### Hide individual languages
